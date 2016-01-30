@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Karl-Havard]]></title>
+        <description><![CDATA[Karl-Havard]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 30 Jan 2016 17:31:08 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[If only...Now it's Hammersmith, it's time to sleep]]></title>
+            <description><![CDATA[<article><h1>If only...Now it's Hammersmith, it's time to sleep</h1><p>If only...It's Hammersmith, and time to sleep.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ecc6918f8111c3e0757d3749780a839d25d3330e.jpg"></article>]]></description>
+            <link>undefinedif-onlynow-its-hammersmith-its-time-to-sleep/index.html</link>
+            <guid isPermaLink="false">2f1105a1-b353-422f-a714-c7d3ecc8e7d2</guid>
+            <pubDate>Sat, 30 Jan 2016 17:29:28 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
