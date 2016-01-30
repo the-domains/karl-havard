@@ -1,0 +1,28 @@
+name: Karl-Havard
+favicon: null
+layout_spectrum: 0.9573028441518545
+typography_spectrum: 0.7784363673999906
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.46574870427139103
+  lightness: 0.7575057670474052
+  saturation: 0.7823708783835173
+  rhythmicContrast: 0.34658942464739084
+purpose: []
