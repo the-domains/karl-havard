@@ -1,28 +1,40 @@
-name: Karl-Havard
 favicon: null
-layout_spectrum: 0.9573028441518545
-typography_spectrum: 0.7784363673999906
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: Karl-Havard
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-  brandStrength: 0.46574870427139103
-  lightness: 0.7575057670474052
-  saturation: 0.7823708783835173
-  rhythmicContrast: 0.34658942464739084
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 purpose: []
+color:
+  saturation: 0.541816
+  brandStrength: 0.8261648
+  lightness: 0.9169653
+  brandColors:
+    - '#FFFFFF'
+    - '#010101'
+    - '#CFCFCF'
+    - '#A3A3A3'
+    - '#777777'
+  rhythmicContrast: 0.3465894
+typography_spectrum: 0.1571087
+layout_spectrum: 0.6338112
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
