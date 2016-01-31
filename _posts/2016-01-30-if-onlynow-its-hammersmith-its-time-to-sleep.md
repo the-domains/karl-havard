@@ -6,9 +6,9 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'Motorhead and Lemmy, Bad Magic Tour, 30th January 2016'
-datePublished: '2016-01-31T13:48:26.442Z'
-dateModified: '2016-01-31T13:46:17.475Z'
-title: "If only...Now it's Hammersmith, it's time to sleep"
+datePublished: '2016-01-31T13:50:18.544Z'
+dateModified: '2016-01-31T13:50:14.172Z'
+title: "Time to sleep, it's Hammersmith"
 author: []
 sourcePath: _posts/2016-01-30-if-onlynow-its-hammersmith-its-time-to-sleep.md
 published: true
