@@ -14,6 +14,7 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+title: Karl Havard On the Grid
 cta:
   domain: null
   bucket: null
