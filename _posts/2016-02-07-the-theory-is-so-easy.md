@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-07T18:49:02.077Z'
-dateModified: '2016-02-07T18:48:54.631Z'
+datePublished: '2016-02-13T17:02:53.570Z'
+dateModified: '2016-02-13T17:02:49.572Z'
 title: The theory is so easy.
 author: []
 sourcePath: _posts/2016-02-07-the-theory-is-so-easy.md
